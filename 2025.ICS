@@ -85,6 +85,15 @@ LOCATION:
 END:VEVENT
 
 BEGIN:VEVENT
+SUMMARY:Staff In-Service Day
+DESCRIPTION:All branches are closed.
+DTSTAMP:20241126T000000Z
+DTSTART:20251022T050500Z
+DTEND:20251023T045500Z
+LOCATION:
+END:VEVENT
+
+BEGIN:VEVENT
 SUMMARY:Election Day
 DESCRIPTION:The Ewing, Hickory Corner, Lawrence, and West Windsor branches will be open 9:30am to 5:00pm. All other branches are closed.
 DTSTAMP:20241126T000000Z
