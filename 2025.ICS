@@ -85,6 +85,15 @@ LOCATION:
 END:VEVENT
 
 BEGIN:VEVENT
+SUMMARY:Lawrence Headquarters Early Closing
+DESCRIPTION:The Lawrence Headquarters Branch will be open 9:30am to 5:00pm. All other branches will have normal hours.
+DTSTAMP:20241126T000000Z
+DTSTART:20251021T210000Z
+DTEND:20251021T210000Z
+LOCATION:
+END:VEVENT
+
+BEGIN:VEVENT
 SUMMARY:Staff In-Service Day
 DESCRIPTION:All branches are closed.
 DTSTAMP:20241126T000000Z
